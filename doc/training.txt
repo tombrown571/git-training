@@ -2,3 +2,13 @@ test traingin git stuff
 
 ## changes on master 
 
+Changes on tghe 'tom' branchd
+#  To make changes first make a branch
+#  git branch mybranchname
+
+# The switch to that branch
+# git checkout mybranchname
+
+# Start making your changes ... 
+
+
