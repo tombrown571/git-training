@@ -1,0 +1,4 @@
+# ignore all tmp files
+*.tmp
+# ignore lib directory
+lib
