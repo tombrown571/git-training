@@ -1,0 +1,1 @@
+echo 'Spin status on' 
