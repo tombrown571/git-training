@@ -1,0 +1,8 @@
+COLOR branch
+This is the change
+RED RED RED RED
+
+This should be the same
+###
+### END
+###
